@@ -1,0 +1,2 @@
+rootProject.name='ECE407 Project'
+include ':app'
